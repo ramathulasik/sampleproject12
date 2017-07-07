@@ -1,2 +1,3 @@
 # sampleproject12
-sample git project
+sample git projecu
+sample project editing file
